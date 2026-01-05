@@ -48,4 +48,4 @@ This project focuses on building an interactive **Customer Analysis Dashboard** 
 ---
 
 ## 👤 Author
-Ram Patel  
+Tirth Patel  
